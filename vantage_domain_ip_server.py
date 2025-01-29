@@ -1,0 +1,46 @@
+AR_resources = [
+    {"country_code": "AR", "domain": "iosfa.gob.ar", "ip_address": "104.21.37.183", "hosting_country": "AR"},
+    {"country_code": "AR", "domain": "inym.org.ar", "ip_address": "104.21.46.169", "hosting_country": "AR"},
+    {"country_code": "AR", "domain": "www.srt.gob.ar", "ip_address": "104.41.44.75", "hosting_country": "BR"},
+    {"country_code": "AR", "domain": "www.argentina.gob.ar", "ip_address": "104.26.4.183", "hosting_country": "AR"},
+    {"country_code": "AR", "domain": "www.fadeasa.com.ar", "ip_address": "104.26.7.159", "hosting_country": "AR"},
+    {"country_code": "AR", "domain": "www.fffir.gob.ar", "ip_address": "66.97.34.177", "hosting_country": "AR"},
+    {"country_code": "AR", "domain": "content.services.aerolineas.com.ar", "ip_address": "52.167.190.121", "hosting_country": "US"},
+    {"country_code": "AR", "domain": "www.comip.org.ar", "ip_address": "68.66.226.125", "hosting_country": "US"},
+    {"country_code": "AR", "domain": "api.aerolineas.com.ar", "ip_address": "52.167.190.121", "hosting_country": "US"},
+    {"country_code": "AR", "domain": "www.correoargentino.com.ar", "ip_address": "200.5.115.233", "hosting_country": "AR"},
+    {"country_code": "AR", "domain": "www.pulmari.org", "ip_address": "142.4.207.227", "hosting_country": "CA"},
+    {"country_code": "AR", "domain": "www.veng.com.ar", "ip_address": "51.222.134.247", "hosting_country": "CA"},
+    {"country_code": "AR", "domain": "www.cba24n.com.ar", "ip_address": "35.211.109.70", "hosting_country": "US"},
+    {"country_code": "AR", "domain": "www.cinain.gob.ar", "ip_address": "153.92.213.166", "hosting_country": "US"},
+    {"country_code": "AR", "domain": "www.ptconstituyentes.com.ar", "ip_address": "185.211.7.237", "hosting_country": "BR"},
+    {"country_code": "AR", "domain": "manuelbelgrano.gov.ar", "ip_address": "200.68.105.13", "hosting_country": "AR"},
+    {"country_code": "AR", "domain": "www.puertomadero.com", "ip_address": "181.13.244.228", "hosting_country": "AR"},
+    {"country_code": "AR", "domain": "www.jdperon.gov.ar", "ip_address": "200.58.111.42", "hosting_country": "AR"},
+    {"country_code": "AR", "domain": "ws-rest.incucai.gov.ar", "ip_address": "181.209.69.155", "hosting_country": "AR"},
+    {"country_code": "AR", "domain": "digital.iosfa.gob.ar", "ip_address": "172.67.211.162", "hosting_country": "AR"}
+]
+
+
+MX_resources = [
+    {"country_code": "MX", "domain": "www.gob.mx", "ip_address": "104.93.21.144", "hosting_country": "US"},
+    {"country_code": "MX", "domain": "puertotuxpan.com.mx", "ip_address": "74.208.23.212", "hosting_country": "US"},
+    {"country_code": "MX", "domain": "conocer.gob.mx", "ip_address": "177.229.215.238", "hosting_country": "MX"},
+    {"country_code": "MX", "domain": "inehrm.gob.mx", "ip_address": "189.206.56.84", "hosting_country": "MX"},
+    {"country_code": "MX", "domain": "estudioschurubusco.com", "ip_address": "209.17.116.160", "hosting_country": "US"},
+    {"country_code": "MX", "domain": "inba.gob.mx", "ip_address": "200.94.51.173", "hosting_country": "MX"},
+    {"country_code": "MX", "domain": "canalonce.mx", "ip_address": "104.26.7.188", "hosting_country": "MX"},
+    {"country_code": "MX", "domain": "ciesas.edu.mx", "ip_address": "192.124.249.19", "hosting_country": "MX"},
+    {"country_code": "MX", "domain": "e-radio.edu.mx", "ip_address": "189.206.56.233", "hosting_country": "MX"},
+    {"country_code": "MX", "domain": "cimav.edu.mx", "ip_address": "187.130.250.16", "hosting_country": "MX"},
+    {"country_code": "MX", "domain": "saacg.gob.mx", "ip_address": "67.225.242.244", "hosting_country": "US"},
+    {"country_code": "MX", "domain": "ciatej.mx", "ip_address": "184.171.252.90", "hosting_country": "US"},
+    {"country_code": "MX", "domain": "upn.mx", "ip_address": "20.45.36.203", "hosting_country": "US"},
+    {"country_code": "MX", "domain": "ipicyt.edu.mx", "ip_address": "148.207.219.78", "hosting_country": "MX"},
+    {"country_code": "MX", "domain": "puertodetampico.com.mx", "ip_address": "184.154.75.178", "hosting_country": "US"},
+    {"country_code": "MX", "domain": "fidena.gob.mx", "ip_address": "201.139.123.170", "hosting_country": "MX"},
+    {"country_code": "MX", "domain": "webbot.me", "ip_address": "3.219.68.66", "hosting_country": "US"},
+    {"country_code": "MX", "domain": "indautor.gob.mx", "ip_address": "35.225.83.196", "hosting_country": "US"},
+    {"country_code": "MX", "domain": "inap.mx", "ip_address": "67.217.34.88", "hosting_country": "US"},
+    {"country_code": "MX", "domain": "sre.gob.mx", "ip_address": "45.60.196.160", "hosting_country": "MX"}
+]
