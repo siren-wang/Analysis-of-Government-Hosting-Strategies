@@ -27,7 +27,7 @@ headers = {
 	'Content-Type': 'application/json'
 }
 
-data = { 'type': 'traceroute', 'addresses_and_probes': addresses_and_probes, 'description': 'some comments', 'userid': 'Siren' }
+data = { 'type': 'traceroute', 'addresses_and_probes': addresses_and_probes, 'description': 'some comments', 'userid': '*' }
 
 response = requests.post(url, data=json.dumps(data), headers=headers)
 print('Status code:', response.status_code)
